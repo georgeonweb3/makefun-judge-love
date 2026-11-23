@@ -1,0 +1,6 @@
+Build a make.fun entry for "Make the Judge Fall in Love in One Line" (slug u-deranalabs-make-the-judge-fall-in-love-in-one-line-8e712c13).
+Write main.py (Python 3.13, deterministic, no network) that writes one single
+line of at most 240 characters to /output/entry.txt — a love line that lands
+fast, with one specific detail only someone who loves the person would notice
+and a surprising turn at the end. Then add README.md, LICENSE (MIT), and
+.gitignore, and commit.
